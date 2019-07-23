@@ -1,0 +1,71 @@
+body{
+    background-color: #353535;
+    color: whitesmoke;
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    line-height: 5px;
+}
+
+.watch_container{
+    border: 2px solid #FDEFA6;
+    border-radius: 13px;
+    overflow: auto;
+    background-color: #1a1818;
+    margin: 15px;
+    padding: 16px;
+
+}
+
+#classicWatch{
+   float: left;
+   margin-left: 10px;
+   margin-right: 10px;
+   width: 150px;
+}
+
+h2 {
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    text-align: left;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.watch_description{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+}
+
+#mechanicalWatch{
+    float: left;
+    height: 200px;
+    width: 150px;
+}
+
+#pocketWatch{
+    float: left;
+    height: 200px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+footer{
+   font-family: 'Dosis', sans-serif;
+   font-size: 30px;
+   text-align: center;
+   margin-top: 25px;
+   margin-bottom: 25px;
+}
